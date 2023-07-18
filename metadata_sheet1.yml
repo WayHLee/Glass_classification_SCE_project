@@ -1,0 +1,14 @@
+Date: 15.09.2022
+Description:
+  Color: The color of the artifact, such as 'Cyan' or 'light blue'.
+  Decoration: The pattern type of the cultural relic, which is 'A' or 'B' or 'C'.
+  Glass type: The type of cultural relic, which is 'high potassium' or 'lead barium'.
+  Sample number: A unique identifier for each artifact.
+  Surface weathering: Whether the cultural relic has been weathered, it is 'no weathering'
+    or 'weathering'.
+Format: .xlsx
+Language: English
+MD5: f63497ca7c56a7f6d93bcd4a14a936d9
+Publisher: Higher Education Press, PRC
+Rights: CC0
+Title: The Relationship Between Weathering and Its Features
